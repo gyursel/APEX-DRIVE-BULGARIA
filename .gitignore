@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.tar.gz
+.openai/*.log
+
+.sites-runtime/
+.wrangler/
+.vinext/
+.next/
+.env*
+*.tsbuildinfo
